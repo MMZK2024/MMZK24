@@ -147,5 +147,5 @@ if fichier_telecharge is not None:
             plt.title('Hierarchical Clusters')
             st.pyplot(plt)
 
-# Ajouter le pied de page
+# Ajouter le pied de page 
 st.markdown('<div class="footer">Developed by [Mohamed idrissi, Mohamed benriala, Zahira ellaouah, Khadija boudalaa]</div>', unsafe_allow_html=True)
